@@ -3,3 +3,4 @@
 2. print
 3. Redirectories  (Linux concept)
 4. Exit status
+5. Variables
